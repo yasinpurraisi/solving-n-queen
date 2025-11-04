@@ -1,6 +1,6 @@
 # N-Queen Problem Solver
 
-This project implements two different approaches to solve the N-Queen problem:
+This project implements two different approaches to solve the N-Queen problem :
 1. Genetic Algorithm
 2. Stochastic Hill Climbing
 
